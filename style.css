@@ -1,0 +1,14 @@
+body {
+	background-color: #D5FFD0;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+}
+h1 {
+	font-size: 30px;
+	margin-left: 60px;
+	margin-top: 40px;
+}
+#pages {
+	text-align: right;
+	margin-right: 60px;
+}
